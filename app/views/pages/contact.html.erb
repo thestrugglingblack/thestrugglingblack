@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="Travelogue" />
+		
+		<title>TSB | Contact Me</title>
+		<link rel="shortcut icon" href="img/favicon.ico">
+		
+		<!-- ### CSS Stylesheets ##################################################################### -->
+		<link rel="stylesheet" type="text/css" href="css/normalize.css" /><!-- CSS: Normalize -->
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" /><!-- CSS: Font Awesome -->
+		<link rel="stylesheet" type="text/css" href="css/styles.css" /><!-- CSS: Main CSS -->
+		<link rel="stylesheet" type="text/css" href="css/responsive.css" /><!-- CSS: Responsive CSS -->
+	</head>
+
+	<body class="index-contact">
+
+		<div id="container" class="container">
+
+		<a class="cd-primary-nav-trigger" id="trigger-menu" href="#0">
+		  	<span class="cd-menu-icon"></span>
+		</a>
+
+		<!-- BOF: Fancy Search Form (content imported via jQuery: from search-form.html) -->
+		<div id="travelogue-search" class="travelogue-search">
+			<form action="search.html">
+				<input class="travelogue-search-input" placeholder="Enter your search term..." type="text" value="" name="search" id="search">
+				<input class="travelogue-search-submit" type="submit" value="">
+				<span class="travelogue-icon-search fa fa-search"></span>
+			</form>
+		</div>
+		<!-- EOF: Fancy Search Form (content imported via jQuery: from search-form.html) -->
+
+			<header class="header">
+				<div class="bg-img">
+					<img class="async-image hide" src="" data-src="http://placehold.it/1280x720/7f8c8d/ffffff" alt="" />
+					<div class="overlay hidden" id="overlay"></div>
+				</div>
+				<div class="title">
+					<h1>
+						<span>CONTACT</span>
+						<span>ME</span>
+					</h1>
+					<p class="subline">Don't be a stranger</p>
+
+					<div>
+						<form id="theForm" class="simform" autocomplete="off" method="POST" action="php/contact_mail.php">
+							<div class="simform-inner">
+								<ol class="questions">
+									<li>
+										<span><label for="q1">What's your name?</label></span>
+										<input id="q1" class="focus-me" name="q1" type="text"/>
+									</li>
+									<li>
+										<span><label for="q2">What's your email address?</label></span>
+										<input id="q2" class="focus-me" name="q2" type="text"/>
+									</li>
+									<li>
+										<span><label for="q3">What do you want to talk about?</label></span>
+										<input id="q3" class="focus-me" name="q3" type="text"/>
+									</li>
+									<li>
+										<span><label for="q4">Can you give me more details?</label></span>
+										<textarea id="q4" name="q4" class="focus-me"></textarea>
+									</li>
+								</ol><!-- /questions -->
+								<button class="submit" name="submit_contact" type="submit">Send answers</button>
+								<div class="controls">
+									<button class="next"></button>
+									<div class="progress"></div>
+									<span class="number">
+										<span class="number-current"></span>
+										<span class="number-total"></span>
+									</span>
+									<span class="error-message"></span>
+								</div><!-- / controls -->
+							</div><!-- /simform-inner -->
+							<span class="final-message"></span>
+						</form><!-- /simform -->
+
+					</div>
+				</div>
+			</header>
+		</div><!-- /container -->
+
+		<!-- ### Sidebar Menu ##################################################################### -->
+		<div id="st-container" class="st-container"></div>
+
+	
+	</body>
+</html>
