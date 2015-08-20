@@ -9,6 +9,12 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'devise'
 gem 'masonry-rails', '~> 0.2.1'
+gem 'carrierwave'
+gem 'carrierwave-aws'
+gem 'fog'
+gem 'rmagick'
+gem 'figaro'
+gem 'mini_magick'
 
 group :production do
   gem 'pg'
