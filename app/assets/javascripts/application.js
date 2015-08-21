@@ -13,6 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= jquery.mb.YTPlayer
-//= nav-bar
+//= materialize.js
 //= require turbolinks
 //= require_tree .

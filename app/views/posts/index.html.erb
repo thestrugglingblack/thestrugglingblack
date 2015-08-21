@@ -1,8 +1,9 @@
 <p id="notice"><%= notice %></p>
 
+
 <div class="row">
 <% @posts.each do |post| %>
-<div class= "col m3">
+<div class= "col l3">
   <div class= "card medium">
     <div class="card-image waves-effect waves-block waves-light">
       <%= image_tag post.main_image_url %>
@@ -16,12 +17,14 @@
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><%= post.title %><i class="material-icons right">Close</i></span>
-      <p><!--DESCRIPTION OF POST FOR THE CARD NEED TO IMPLEMENT DESCRIPTION INTO TABLE--> </p>
+      <p><%=post.post_desc %> </p>
     </div>
   </div>
 </div>
   <% end %>
 </div> 
+  
+
 <%= link_to 'New Post', new_post_path %> 
 
 

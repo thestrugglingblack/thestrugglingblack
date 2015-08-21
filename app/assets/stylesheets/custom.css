@@ -39,3 +39,10 @@
   font-size: large;
   
 }
+
+/* Style for show */
+
+.main_image_show{
+  height:700px;
+  width: 1500px;
+}
