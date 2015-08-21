@@ -15,7 +15,7 @@ gem 'fog'
 gem 'rmagick'
 gem 'figaro'
 gem 'mini_magick'
-gem 'materialize-sass'
+
 
 group :production do
   gem 'pg'

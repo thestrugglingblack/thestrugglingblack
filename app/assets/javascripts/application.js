@@ -13,7 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= jquery.mb.YTPlayer
-//= require materialize-sprockets
 //= nav-bar
 //= require turbolinks
 //= require_tree .
