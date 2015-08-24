@@ -15,6 +15,7 @@ gem 'fog'
 gem 'rmagick'
 gem 'figaro'
 gem 'mini_magick'
+gem 'redcarpet'
 
 
 group :production do

@@ -1,4 +1,4 @@
-/* Style for Landing Page */
+/*----------------------------------------------------------------------------- Style for Landing Page */
 #lp-header {
   font-family: 'Permanent Marker', cursive;
   font-weight: 400;
@@ -22,7 +22,7 @@
   right: 0;
 }
 
-/* Style for navbar */
+/*-----------------------------------------------------------------------------------Style for navbar */
 
 .nav-logo{
    font-family: 'Permanent Marker', cursive;
@@ -40,14 +40,32 @@
   
 }
 
-/* Style for show */
+/* ---------------------------------------------------------------------------------------Style for show */
 
 .main_image_show{
   height:700px;
   width: 1500px;
 }
 
-/* Style for About */
+h7, .show-header{
+  font-family: 'Permanent Marker', cursive;
+  font-weight: 400;
+  color: bkack;
+  font-size: 400%;
+  
+}
+p, .show-text{
+  font-family: 'Electrolize', sans-serif;
+  color: black;
+  font-size: 200%;
+}
+.ebds-links{
+  font-family: 'Electrolize', sans-serif;
+  color: black;
+  font-size: 75%;
+}
+
+/*---------------------------------------------------------------------------------- Style for About */
 
 #about_me_pic{
    background-image: asset-data-url("tsb6.png");
@@ -59,14 +77,14 @@
   background-size: cover;
 }
 
-p, #about_me_txt{
+ #about_me_txt{
   font-family: 'Electrolize', sans-serif;
   font-weight: 400;
   color: white;
   font-size: 125%;
 }
 
-h1, .about_me_header{
+ .about_me_header{
   font-family: 'Permanent Marker', cursive;
   font-weight: 400;
   color: white;
@@ -78,7 +96,7 @@ h1, .about_me_header{
   font-size: 50%;
 }
 
-/* Style for Contact */
+/*----------------------------------------------------------------------------- Style for Contact */
 
 input, #visitor_name {
   color: white;
@@ -108,3 +126,18 @@ label{
   color: white;
   font-family: 'Electrolize', sans-serif;
 }
+
+.contact-header{
+  font-family: 'Permanent Marker', cursive;
+  font-weight: 400;
+  color: white;
+  font-size: 400%;
+}
+
+/*-------------------------------------------------------------------------Style for Post Index */
+.ebd-links{
+  font-family: 'Electrolize', sans-serif;
+  color: black;
+  font-size: 50%;
+}
+ 

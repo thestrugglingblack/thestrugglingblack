@@ -8,11 +8,15 @@
   </div>
   <div class="section white">
     <div class="row container">
-      <h2 class="header"> <%= @post.title %></h2>
-      <p class="grey-text text-darken-3 lighten-3"> <%= @post.body %></p>
+      <h7 class="show-header"> <%= @post.title%></h7>
+      <p class="show-text"> <%= @post.body.html_safe %></p>
+    </div>
+    <div class="container">
+    <%= link_to 'Edit', edit_post_path(@post), class: "ebds-links" %> |
+    <%= link_to 'Back', posts_path, class: "ebds-links" %> |
+      <%= link_to 'Delete', @post, method: :delete, data: { confirm: 'Are you sure?' }, class: "ebds-links" %>
     </div>
   </div>
+<!--grey-text text-darken-3 lighten-3-->
 
 
-<%= link_to 'Edit', edit_post_path(@post) %> |
-<%= link_to 'Back', posts_path %>
