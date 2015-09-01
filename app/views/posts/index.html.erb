@@ -16,16 +16,20 @@
       <%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' }, class: "ebd-links" %></p></center>
     </div>
     <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4"><%= post.title %><i class="material-icons right">Close</i></span>
-      <p><%=post.post_desc %> </p>
+      <span class="card-title grey-text text-darken-4"><%= post.title %><i class="material-icons right">Close</i> <p><%= post.post_desc %> </p>
+      </span>
+     
     </div>
   </div>
 </div>
   <% end %>
 </div> 
-  
 
-<%= link_to 'New Post', new_post_path %> 
+<center>
+<div class="container">
+  <%= link_to 'New Post', new_post_path, class: "nav-links"%> 
+</div>
+</center>
 
 
 

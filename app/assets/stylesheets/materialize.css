@@ -5788,8 +5788,8 @@ small {
 
 .btn, .btn-large {
   text-decoration: none;
-  color: #fff;
-  background-color: #26a69a;
+  color: black;
+  background-color: white;
   text-align: center;
   letter-spacing: .5px;
   -webkit-transition: .2s ease-out;

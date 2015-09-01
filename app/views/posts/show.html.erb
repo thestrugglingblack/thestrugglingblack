@@ -1,10 +1,12 @@
 <p id="notice"><%= notice %></p>
 
 
-  <div class="parallax-container">
-    
-      <%= image_tag @post.main_image_url, :class => "main_image_show" %>
-   
+  <div class="parallax-container" >
+  <div class="jumbotron" style="padding-bottom: 0px; padding-top: 0px; padding-right: 0px; border-right-width: 0px; background-color: black;">
+   <div class="container"  style="margin-left: 0px; margin-right: 0px; padding-left: 10px; padding-right: 10px; padding-top: 0px; background-color: black;">
+     <%= image_tag @post.main_image_url, :class => "main_image_show" %>
+    </div>
+    </div>
   </div>
   <div class="section white">
     <div class="row container">

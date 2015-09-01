@@ -12,23 +12,26 @@
   <% end %>
 
  <div class="field">
-   <%= f.label :main_image %><br>
+   <%= f.label :main_image, "Import Image" %><br>
    <%= f.file_field :main_image %>
   </div>
+<br>
   
-  <div class="field">
-    <%= f.label :title %><br>
-    <%= f.text_field :title %>
+  <div class="input-field">
+    <%= f.label :title, "Post Title" %><br>
+    <%= f.text_field :title, class:"form-style" %>
   </div>
- <div class="field">
-   <%= f.label :post_desc %><br>
-   <%= f.text_field :post_desc %>
+<br>
+ <div class="input-field">
+   <%= f.label :post_desc, "Post Description" %><br>
+   <%= f.text_field :post_desc, class:"form-style" %>
   </div>
-  <div class="field">
-    <%= f.label :body %><br>
-    <%= f.text_area :body %>
+<br>
+  <div class="input-field ">
+    <%= f.label :body, "Post Body" %><br>
+    <%= f.text_area :body, class: "materialize-textarea form-style" %>
   </div>
-  <div class="actions">
-    <%= f.submit %>
+  <div class="form-group">
+    <%= f.submit class: "btn" %>
   </div>
 <% end %>

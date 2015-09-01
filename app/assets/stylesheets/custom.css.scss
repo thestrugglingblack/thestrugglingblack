@@ -3,7 +3,7 @@
   font-family: 'Permanent Marker', cursive;
   font-weight: 400;
   color: white;
-  font-size: 400%;
+  font-size:72px;
   position: fixed !important;
   position: absolute; /* ie6 */
   top: 0;
@@ -15,7 +15,7 @@
   font-family: 'Electrolize', sans-serif;
   font-weight: 400;
   color: white;
-  font-size: 200%;
+  font-size: 35px;
   position:fixed !important;
   position: absolute; /*ie6 */
   bottom: 0;
@@ -28,7 +28,7 @@
    font-family: 'Permanent Marker', cursive;
   font-weight: 400;
   color: white;
-  font-size: 200%;
+  font-size: 48px;
   padding-left: 100px;
 }
 
@@ -36,15 +36,15 @@
   font-family: 'Electrolize', sans-serif;
   font-weight: 500;
   color: white;
-  font-size: large;
+  font-size: 30px;
   
 }
 
 /* ---------------------------------------------------------------------------------------Style for show */
 
 .main_image_show{
-  height:700px;
-  width: 1500px;
+  max-height: 500px;
+  width: 2000px;
 }
 
 h7, .show-header{
@@ -57,12 +57,12 @@ h7, .show-header{
 p, .show-text{
   font-family: 'Electrolize', sans-serif;
   color: black;
-  font-size: 200%;
+  font-size: 30px;
 }
 .ebds-links{
   font-family: 'Electrolize', sans-serif;
   color: black;
-  font-size: 75%;
+  font-size: 20px;
 }
 
 /*---------------------------------------------------------------------------------- Style for About */
@@ -74,21 +74,21 @@ p, .show-text{
    right: 0px;
    height: 100%;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
  #about_me_txt{
   font-family: 'Electrolize', sans-serif;
   font-weight: 400;
   color: white;
-  font-size: 125%;
+  font-size: 20px;
 }
 
  .about_me_header{
   font-family: 'Permanent Marker', cursive;
   font-weight: 400;
   color: white;
-  font-size: 300%;
+  font-size: 55px;
 }
 
 .sign_in{
@@ -139,5 +139,19 @@ label{
   font-family: 'Electrolize', sans-serif;
   color: black;
   font-size: 50%;
+}
+
+/*---------------------------------------------------------------------Style for Form */
+
+.form-style{
+  color: white;
+  font-family: 'Electrolize', sans-serif;
+  font-size: 45px;
+}
+
+.ebd-links3{
+  font-family: 'Electrolize', sans-serif;
+  color: white;
+  font-size: 30px;
 }
  
