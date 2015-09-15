@@ -11,6 +11,7 @@ class PagesController < ApplicationController
   
   def landing_page
     @disable_nav = true
+    
   end
   
   

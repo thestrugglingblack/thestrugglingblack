@@ -15,7 +15,7 @@ gem 'fog'
 gem 'rmagick'
 gem 'figaro'
 gem 'mini_magick'
-gem 'redcarpet'
+gem 'mail_form', '~> 1.5.1'
 
 
 group :production do

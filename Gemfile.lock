@@ -195,6 +195,9 @@ GEM
       nokogiri (>= 1.5.9)
     mail (2.6.3)
       mime-types (>= 1.16, < 3)
+    mail_form (1.5.1)
+      actionmailer (>= 3.2, < 5)
+      activemodel (>= 3.2, < 5)
     masonry-rails (0.2.4)
       railties
     mime-types (2.6.1)
@@ -244,7 +247,6 @@ GEM
     rake (10.4.2)
     rdoc (4.2.0)
       json (~> 1.4)
-    redcarpet (3.3.2)
     responders (2.1.0)
       railties (>= 4.2.0, < 5)
     rmagick (2.15.4)
@@ -297,12 +299,12 @@ DEPENDENCIES
   fog
   jbuilder (~> 2.0)
   jquery-rails
+  mail_form (~> 1.5.1)
   masonry-rails (~> 0.2.1)
   mini_magick
   pg
   rails (= 4.2.3)
   rails_12factor
-  redcarpet
   rmagick
   sass-rails (~> 5.0)
   sdoc
@@ -313,4 +315,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.10.5
+   1.10.6
