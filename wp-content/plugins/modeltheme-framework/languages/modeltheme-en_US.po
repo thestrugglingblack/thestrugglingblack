@@ -1,0 +1,2176 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#1 Banner Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#1 Banner Link"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#1 Banner Title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#2 Banner Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#2 Banner Link"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#2 Banner Title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#3 Banner Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#3 Banner Link"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#3 Banner Title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#4 Banner Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#4 Banner Link"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "#4 Banner Title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "01 Javascript Slider"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "01 Website Layout"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "03 Photo Stock Banner"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "05 Email Account"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "2 columns"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "3 columns"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "4 columns"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "40% Complete"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:678
+msgid "<strong>Thank you!</strong> We\\'ll get back to you as soon as possible."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "<strong>Well done!</strong> You successfully read this important alert message."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Active"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add Member"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add New Member"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add New Quote"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add New Service"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add New Testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add Quote"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-framework/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add Service"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add Testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Add or remove items"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Alert style"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Alert text"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Align center"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Align left"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Align right"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Alignment"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "All Courses"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "All Events URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "All Items"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "All courses box - button link"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "All courses box - button text"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "All courses box - description"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "All courses box - title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "All done."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Animation"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:273
+msgid "Assign Authors"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "BASIC"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Background color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Badge background color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Badge border color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Badge icon"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Banner Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Banner button text"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Banner button url"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Beds"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Blog Posts Custom Options"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Blog post background"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Blog post border color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Blog post button border color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Border Section Color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Border color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Bordered"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Button"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Button URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Button background color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Button border color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Button size"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Button text"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Button url"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "COMPLETED PROJECTS"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Category badge background"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Chairs"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Choose background color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Choose border color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Choose button background color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Choose custom background color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Choose custom border color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Choose from the most used"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Choose text color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Color of the digits"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Color of the dots"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Color of the text"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:1
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Company"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Contact Location"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Contact Location Details"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Contact Locations"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:678
+msgid "Cost of the course:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Danger"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Dark border for light section"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Dark color subtitle for light section"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Dark color title for light section"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Default value"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Description for all courses box"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Deviantart URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Digg URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Do you want the All Courses box?"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit."
+msgstr ""
+
+#. Text in echo
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:289
+msgid "Download and import file attachments"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Dribbble URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Edit Member"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Edit Quote"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Edit Service"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Edit Testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Eg: Web Design"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:1
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Enable/Disable Comments"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Enter Latitude value of the location"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Enter Longitude value of the location"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter number of clients to show."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter number of events to show."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter number of events to show. Maximum 4"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter number of quotes to show."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter number of services to show."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter number of testimonials to show."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Enter testimonial author company name"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Enter testimonial author job position"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter text:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter the URL for All Events Link. E.g. '/events' "
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter the text you want to appear on image background"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter the text you want to be the subtitle"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter the text you want to be the title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your Google+ link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your Skype Username."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your YouTube link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your deviantart link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your digg link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your dribbble link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your facebook link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your flickr link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your heading."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your instagram link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your linkedin link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your pinterest link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your stumbleupon link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your tumblr link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your twitter link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Enter your vimeo link."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Events per line"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Extra-Large"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Facebook URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Featured blog post"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Flickr URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:678
+msgid "Free entry"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:1
+msgid "Full Name"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Go to map"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Google Plus URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:1
+msgid "Got it, you\\'ve been added to our email list."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "Have fun!"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading H1"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading H2"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading H3"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading H4"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading H5"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading H6"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading align(left/right)"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Heading type"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Hello, world!"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "High Padding"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Icon class"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Icon class(FontAwesome)"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:276
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Image source url"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Import Attachments"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Imported"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Imported to Inactive"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Info"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Instagram URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Is dismissible?"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Job Position"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Just Click the button bellow to move the map arround!"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Large"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Latitude value"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Learn more"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Light border for dark section"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Light color subtitle for dark section"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Light color title for dark section"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "LinkedIn URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "List group item description"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "List group item heading"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Loaded with awesome features like Visual Composer, premium sliders, unlimited colors, advanced theme options & more!"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Longitude value"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Alert"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Banner"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Blog Posts"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Button"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Call to Action"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Clients Slider"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Contact Locations"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Contact form"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Contact form 2"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Countdown"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Events"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Events V2"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Featured post"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Heading with Border"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Heading with bottom border"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Jumbotron"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - List Courses"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - List Teachers"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - List group"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Mailchimp subscribe form - simple layout"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Masonry Banners"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Our Services"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Panel"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Posts calendar"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Pricing table"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Products by Category"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Progress bar"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Quotes"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/widgets/widgets.php:1
+msgid "MODELTHEME - Recent Tweets"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - SALE BANNER"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Section Heading with Title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Section Heading with Title and Subtitle"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Services Features"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Shop feature V2"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Skill counter"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Social icons"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Testimonials - V1"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Testimonials Slider V2"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Thumbnails custom content"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME - Tweets"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "MODELTHEME Is The Ultimate WordPress Multi-Purpose WordPress Theme!"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Member"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Member Types"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Members"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:678
+msgid "More"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "New Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "New Item Name"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "New Member"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "New Quote"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "New Service"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "New Testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "No - Hide title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "No Members Found"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "No Members Found in Trash"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "No Padding"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "No Padding bottom"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "No Padding top"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "No Quotes Found"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "No Quotes Found in Trash"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "No Services Found"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "No Services Found in Trash"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "No Testimonials Found"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "No Testimonials Found in Trash"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "No Title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Normal"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Not found"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Not found in Trash"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of categories to show"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of columns"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of events"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of posts"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of posts to show"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of products to show for each category"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of quotes"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of services"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of testimonials"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Number of tweets to show"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "OUR <span>SERVICES</span>"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "OUR<br>WORK"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Off - Hide comments"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Off - Hide title-breadcrumbs area"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "On - Show comments"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "On - Show title-breadcrumbs area"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Order"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Order by"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Orientation"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Our Services"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Our Services Custom Options"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Our Work"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "PRAY"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package button text"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package button url"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package currency"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package name"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package price"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package's 1st feature"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package's 2nd feature"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package's 3rd feature"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Package's 4th feature"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Page Custom Options"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Page title-breadcrumbs"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Page top/bottom spacing"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Panel content"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Panel style"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Panel title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Parent Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Parent Item:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Parent Member"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Parent Quote"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Parent Service"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Parent Testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Pinterest URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Please choose style type"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Please select a category"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Please type a post ID"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Popular Items"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Posts calendar"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Products per column"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Progress bar label"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Progress bar scope"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Progress bar style"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Progress bar value (1-100)"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Purchase"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Quote"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Quotes"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/widgets/widgets.php:1
+msgid "Recent Tweets"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/widgets/widgets.php:1
+msgid "Recent tweets widget"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Recommended"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Recommended?"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#. Text in echo
+#: modeltheme-framework/helpers/cmb_Meta_Box_types.php:306
+msgid "Remove"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Search Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Search Items"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Search Members"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Search Quotes"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Search Service"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Search Testimonials"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Section heading"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Section heading icon"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Section subtitle"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Section title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Select Category"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Select Revolution Slider"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Select Sidebar"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Select image background"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Select style type"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Select the image you want to show on the background"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Separate items with commas"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Service"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Service Types"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Set the background color of the badge"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Set the background color of the category badge"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Set the background color of the post"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Set the background color of the testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Set the border color for the button"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Set the border color of the badge"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Set the border color of the post"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Set the border color of the testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Shop now"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Show categories without products?"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Show page title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Simple"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Site does not support widget"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Skill value"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Skype Username"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Small"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "SmartOWL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Sofas"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Striped"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Stumbleupon URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Style 1 - Single color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Style 2 - Dual color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Sub heading"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Subheading"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:293
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Submit button text"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Subscribe"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Subtitle Color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Success"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Testimonial background"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Testimonial border color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Testimonials"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Testimonials Custom Options"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Text align"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Text align of Title and subtitle"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Text color"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Text field title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:1
+msgid "Thank you! We\\'ll get back to you as soon as possible."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:295
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/parsers.php:1
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "This sounded a very good reason, and Alice was quite pleased to know it. 'I never thought of that before!' she said."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Thumbnail label"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Title Color"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/wordpress-importer.php:274
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Tumblr URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Tweets"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-framework/inc/widgets/widgets.php:105
+msgid "Tweets number:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Twitter URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "Update Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/shortcodes.php:678
+msgid "VIEW MORE"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "View Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "View Member"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "View Quote"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "View Service"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/post-types/post-types.php:1
+msgid "View Testimonial"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Vimeo URL"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Visible Testimonials per slide"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Warning"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "We have a lot of opportunities for you. Come check them out!"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/demo-importer/extensions/wbc_importer/inc/importer/radium-importer.php:1
+msgid "Widget already exists"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-framework/inc/widgets/widgets.php:101
+msgid "Widget title:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Without border"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/metaboxes/metaboxes.php:1
+msgid "Yes - Show title"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "You can find us here!"
+msgstr ""
+
+#. Text in function
+#: modeltheme-framework/inc/shortcodes/vc-shortcodes.inc.php:1
+msgid "YouTube URL"
+msgstr ""

@@ -1,0 +1,35 @@
+/*
+Theme Name: Travelogue Theme
+Theme URI: http://traveloguewp.modeltheme.com/
+Author: ModelTheme
+Author URI: http://modeltheme.com/
+Description: Travelogue is a unique and elegant WordPress theme with modern design. It works properly on all browsers and devices. Each page has a specific transition effect that gives this theme a unique feeling.
+Version: 1.5
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: traveloguewp
+Tags: one-column, two-columns, right-sidebar, editor-style, featured-images, post-formats, responsive-layout
+Update Release Date: 16-JUN-2016
+
+*/
+
+.wp-caption {}
+.wp-caption-text {}
+.sticky {}
+.gallery-caption {}
+.bypostauthor {}
+img.alignright {
+    float: right;
+    margin-bottom: 0;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+.aligncenter {
+    text-align: center;
+}
+img.alignleft {
+    float: left;
+    margin-bottom: 0;
+    margin-right: 30px;
+    margin-top: 8px;
+}

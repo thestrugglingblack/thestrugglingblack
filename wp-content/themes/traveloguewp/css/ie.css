@@ -1,0 +1,41 @@
+/*------------------------------------------------------------------
+[IE Stylesheet]
+
+Project:    Travelogue - Travel Blog WordPress Template
+Version:    1.0
+Author:     Modeltheme
+URL:        http://travelogue.modeltheme.com/
+
+[Table of contents]
+
+
+-------------------------------------------------------------------*/
+
+.widget-area[role="complementary"] .widget_calendar a,
+.widget-area[role="complementary"] .widget_recent_comments a,
+.widget-area[role="complementary"] .widget_categories a,
+.widget-area[role="complementary"] .widget_nav_menu a,
+.widget-area[role="complementary"] .widget_recent_comments a,
+.widget-area[role="complementary"] .widget_meta a,
+.widget-area[role="complementary"] .widget_pages a,
+.widget-area[role="complementary"] .widget_archive a,
+.widget-area[role="complementary"] .widget_recent_entries a{
+    padding: 0 10px;
+}
+.widget-area[role="complementary"] .widget_nav_menu a:before,
+.widget-area[role="complementary"] .widget_recent_comments a:before,
+.widget-area[role="complementary"] .widget_categories a:before,
+.widget-area[role="complementary"] .widget_recent_comments a:before,
+.widget-area[role="complementary"] .widget_meta a:before,
+.widget-area[role="complementary"] .widget_pages a:before,
+.widget-area[role="complementary"] .widget_archive a:before,
+.widget-area[role="complementary"] .widget_recent_entries a:before{
+    position: absolute;
+    top: -7px;
+}
+.travelogue-search-open .travelogue-search-input{
+    padding: 9px;
+}
+.tabs-style-topline .fa::before{
+    display: none;
+}

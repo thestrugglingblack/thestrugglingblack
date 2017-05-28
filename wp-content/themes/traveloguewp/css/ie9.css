@@ -1,0 +1,24 @@
+/*.title{
+	left: 0%;
+}
+.container.intro-effect-grid{
+	top: 0;
+}*/
+.fullwidth.sidebar-navigation-menu li > a:hover:after,
+.fullwidth.sidebar-navigation-menu li > a:after {
+    height: 200% !important;
+    transform: rotate(111deg) !important;
+    -o-transform: rotate(111deg) !important;
+    -ms-transform: rotate(111deg) !important;
+    -webkit-transform: rotate(111deg) !important;
+    -moz-transform: rotate(111deg) !important;
+}
+.st-menu{
+    right: -300px !important;
+}
+.st-menu-open .st-menu{
+    right: 0px !important;
+}
+.slideshow nav span.nav-close{
+    z-index: 3000000 !important;
+}

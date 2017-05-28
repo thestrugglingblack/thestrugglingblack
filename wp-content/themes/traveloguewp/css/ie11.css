@@ -1,0 +1,44 @@
+/*------------------------------------------------------------------
+[IE-11 Stylesheet]
+
+Project:    Travelogue - Travel Blog WordPress Template
+Version:    1.0
+Author:     Modeltheme
+URL:        http://traveloguewp.modeltheme.com/
+
+[Table of contents]
+
+
+-------------------------------------------------------------------*/
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_calendar a,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_recent_comments a,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_categories a,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_nav_menu a,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_recent_comments a,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_meta a,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_pages a,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_archive a,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_recent_entries a{
+    padding: 0 10px;
+}
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_nav_menu a:before,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_recent_comments a:before,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_categories a:before,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_recent_comments a:before,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_meta a:before,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_pages a:before,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_archive a:before,
+_:-ms-fullscreen, :root .widget-area[role="complementary"] .widget_recent_entries a:before{
+    position: absolute;
+    top: -7px;
+}
+_:-ms-fullscreen, :root .travelogue-search-open .travelogue-search-input{
+    padding: 9px;
+}
+_:-ms-fullscreen, :root input.travelogue-search-input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: GrayText;
+}
+_:-ms-fullscreen, :root .tabs-style-topline .fa::before{
+    display: none;
+}
+

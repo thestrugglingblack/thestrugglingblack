@@ -1,0 +1,236 @@
+/* General styles for the modal */
+
+/* 
+Styles for the html/body for special modal where we want 3d effects
+Note that we need a container wrapping all content on the page for the 
+perspective effects (not including the modals and the overlay).
+*/
+.clearfix {
+	clear: both;
+}
+.md-perspective,
+.md-perspective body {
+	height: 100%;
+	overflow: hidden;
+}
+
+.md-perspective body  {
+	background: #222;
+	-webkit-perspective: 600px;
+	-moz-perspective: 600px;
+	perspective: 600px;
+}
+
+.container {
+	background: #e74c3c;
+	min-height: 100%;
+}
+
+.md-modal {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	width: 50%;
+	width: 1020px;
+	height: 550px;
+	z-index: 2000;
+	visibility: hidden;
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+
+.md-show {
+	visibility: visible;
+}
+
+.md-overlay {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	visibility: hidden;
+	top: 0;
+	left: 0;
+	z-index: 1005;
+	opacity: 0;
+	background: rgba(34,34,34,0.8);
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.md-show ~ .md-overlay {
+	opacity: 1;
+	visibility: visible;
+}
+
+/* Content styles */
+.md-content {
+	color: #fff;
+	background: #f1f1f1;
+	position: relative;
+	border-radius: 3px;
+	margin: 0 auto;
+}
+
+.md-content h3 {
+	color: #f1f1f1;
+	margin: 0;
+	padding: 0 20px;
+	text-align: left;
+	font-size: 36px;
+	font-weight: 300;
+	background: #222222;
+	border-radius: 3px 3px 0 0;
+	line-height: 70px;
+}
+
+.md-content h3 i.fa.fa-cogs {
+	padding-right: 10px;
+	font-size: 30px;
+}
+
+.md-content > div {
+	/*padding: 15px 40px 30px;*/
+	margin: 0;
+	font-weight: 300;
+	font-size: 1.15em;
+}
+
+.md-content > div p {
+	margin: 0;
+	/*padding: 10px 0;*/
+}
+
+.md-content > div ul {
+	margin: 0;
+	padding: 0;
+	background: #222222;
+	height: 480px;
+	overflow-y: scroll;
+}
+
+.md-content > div ul li {
+	padding: 0;
+	box-sizing: border-box;
+	margin-bottom: 0;
+}
+.md-content > div ul li.active {
+	background: #333;
+}
+.md-content > div ul li a,
+.md-content > div ul li a:hover {
+	box-sizing: border-box;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 16px;
+	display: block;
+	width: 100%;
+	padding: 6px 20px;
+	line-height: 28px;
+}
+.shortcode-menu {
+	width: 30%;
+	height: auto;
+	float: left;
+	margin-bottom: 1px; 
+}
+.shortcode-content {
+	width: 70%;
+	height: auto;
+	float: left;
+}
+
+/* Individual modal styles with animations/transitions */
+
+
+/* Effect 19:  Slip in from the top with perspective on container */
+.md-effect-3 .md-content {
+	height: 100%;
+	-webkit-transform: translateY(20%);
+	-moz-transform: translateY(20%);
+	-ms-transform: translateY(20%);
+	transform: translateY(20%);
+	opacity: 0;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.md-show.md-effect-3 .md-content {
+
+	-webkit-transform: translateY(0);
+	-moz-transform: translateY(0);
+	-ms-transform: translateY(0);
+	transform: translateY(0);
+	opacity: 1;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}
+
+.shortcode-content {
+	padding: 20px 40px;
+	box-sizing: border-box;
+	height: 470px;
+	overflow-y: scroll;
+}
+
+.shortcode-content h2 {
+	color: #FFF;
+	text-align: left;
+	background: rgba(0,0,0,0.5);
+	margin-top: 0;
+	padding: 10px;
+	font-size: 28px;
+}
+.shortcode-content .shortcode-field label {
+	font-size: 18px;
+	display: block;
+	margin-bottom: 10px;
+	color: rgba(0,0,0,1);
+}
+.shortcode-content .shortcode-field {
+	margin-bottom: 20px;
+	margin-left: 15px;
+}
+.input-container {
+	float: left;
+}
+.label-container {
+	width: 250px;
+	float: left;
+}
+#av-shortcode-menu li a i {
+	padding-right: 10px;
+}
+.shortcode-container h2 i {
+	padding-right: 10px;
+}
+.insert-button {
+	margin-left: 15px;
+}
+.insert-button button {
+	background: #1e8cbe;
+	border-color: #0074a2;
+	-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+	box-shadow: inset 0 1px 0 rgba(120,200,230,.6);
+	color: #fff;
+	height: 30px;
+	line-height: 28px;
+	padding: 0 12px 2px;
+	vertical-align: top;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	cursor: pointer;
+}
