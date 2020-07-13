@@ -55,7 +55,7 @@ I like to contribute to the world knowledge by writing tutorials on various topi
 
 I come from a _non-traditional_ coding background as well and I had an interesting journey breaking into the industry, you can learn more about my journey from reading **"Code with Veni"** Blog, [Meet Zuri: Queen of Hackathons](http://blog.codewithveni.com/meet-zuri-queen-hackathons/)
 
-I like to create a good impact on our planet 🌍 by volunteering as a **Technical Lead** for [Black Girls Code](http://www.blackgirlscode.org) and **Hackathon Organizer** for Howard University School of Business Hackathon [Bison Hacks](http://www.bisonhacks.com). Formerly I was a **Ruby on Rails Lead** for [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC) and **Leadership Lead** for [DCFemTech](http://www.dcfemtech.org)
+I like to make an impact on the planet 🌍 by volunteering as a **Technical Lead** for [Black Girls Code](http://www.blackgirlscode.org) and **Hackathon Organizer** for Howard University School of Business Hackathon [Bison Hacks](http://www.bisonhacks.com). Formerly I was a **Ruby on Rails Lead** for [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC) and **Leadership Lead** for [DCFemTech](http://www.dcfemtech.org). I like to volunteer to organizations that are dedicated to improving the status quo of minorities and women in the tech industry.
 
 I don't always code 24/7, I have hobbies like gaming on my PS4, 3D Modeling, Felting, Drawing and Billiards.
 
