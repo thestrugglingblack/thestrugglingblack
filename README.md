@@ -29,14 +29,14 @@
                                                                    |  $$$$$$/|  $$$$$$/
                                                                     \______/  \______/
 ```
-![Women Who Code Python Talk: 4C Or Not 4C ](./assets/IMG_2637.jpeg)
+![Women Who Code Python Talk: 4C Or Not 4C ](https://github.com/thestrugglingblack/thestrugglingblack/blob/master/assets/IMG_2637.jpeg)
 
 ## The name is [Zuri](http://www.zurihunter.com)! 
 
 ### Here are some lovely tales about me!
 😀 she/her
 
-I am a Software Engineer 👩🏾‍💻 at one of the awesomest companies on the planet **Black Cape**! 
+I am a Software Engineer 👩🏾‍💻 at one of the awesomest companies on the planet **[Black Cape](http://www.blackcape.io)**! 
 
 I am an alumna from the illustrious ⚪️🔵🔴**Howard University**🔴🔵⚪.️
 
