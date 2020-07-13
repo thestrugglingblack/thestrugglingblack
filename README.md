@@ -48,7 +48,7 @@ I like to talk about my _side projects_, _techie hobbies_ and my experience as a
 * [K8s & <3Bre8ks: Introduction to Kubernetes](https://www.youtube.com/watch?v=nzvuGhjk7Ns&t=2s)
 * [4C or Not 4C? That is the question...: A Talk on ML and Black Hair](https://www.youtube.com/watch?v=LtqaumBsuPM)
 * [Greater Than Code: Episode 15](http://podbay.fm/show/1163023878/e/1484177065?autostart=1)
-* [Whats Working in Washington: Episode 237 "Tech ytlent comes from more than just a computer science degree"](https://admin.podcastone.com/episode/Whats-Working-in-Washington---Ep-237---Tech-talent-comes-from-more-than-just-a-computer-science-degree---Zuri-Hunter)
+* [Whats Working in Washington: Episode 237 "Tech talent comes from more than just a computer science degree"](https://admin.podcastone.com/episode/Whats-Working-in-Washington---Ep-237---Tech-talent-comes-from-more-than-just-a-computer-science-degree---Zuri-Hunter)
 
 I like to contribute to the world knowledge by writing tutorials on various topics in tech and community organizing. Here are some below:
 * [Beginner Friendly Introduction to GitLAB CI/CD](https://dev.to/zurihunter/beginner-friendly-introduction-to-gitlabcicd-4p5a)
