@@ -52,12 +52,13 @@ I like to talk about my _side projects_, _techie hobbies_ and my experience as a
 
 I like to contribute to the world knowledge by writing tutorials on various topics in tech and community organizing. Here are some below:
 * [Beginner Friendly Introduction to GitLAB CI/CD](https://dev.to/zurihunter/beginner-friendly-introduction-to-gitlabcicd-4p5a)
+* [How I Built my first Twitch Bot with Natural Language Processing](https://dev.to/zurihunter/how-i-built-my-first-twitch-bot-with-nlu-fid)
 
 I come from a _non-traditional_ coding background as well and I had an interesting journey breaking into the industry, you can learn more about my journey from reading **"Code with Veni"** Blog, [Meet Zuri: Queen of Hackathons](http://blog.codewithveni.com/meet-zuri-queen-hackathons/)
 
 I like to make an impact on the planet 🌍 by volunteering as a **Technical Lead** for [Black Girls Code](http://www.blackgirlscode.org) and **Hackathon Organizer** for Howard University School of Business Hackathon [Bison Hacks](http://www.bisonhacks.com). Formerly I was a **Ruby on Rails Lead** for [Women Who Code DC](https://www.meetup.com/Women-Who-Code-DC) and **Leadership Lead** for [DCFemTech](http://www.dcfemtech.org). I like to volunteer to organizations that are dedicated to improving the status quo of minorities and women in the tech industry.
 
-I don't always code 24/7, I have hobbies like gaming on my PS4, 3D Modeling, Felting, Drawing and Billiards.
+I don't always code 24/7, I have hobbies like gaming on my PlayStation, 3D Modeling, Embroidery, Felting, Drawing and Billiards.
 
 You can follow me on:
 * 🐦 [Twitter](https://twitter.com/ZuriHunter)
