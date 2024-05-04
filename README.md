@@ -36,7 +36,7 @@
 ## Here are some lovely tales about me!
 😀 **she/her**
 
-I am a **Data Engineer** 👩🏾‍💻 at one this really cool place called the National Football League **[Black Cape](http://www.nfl.com)**! 
+I am a **Data Engineer** 👩🏾‍💻 at this really cool place called the 🏟️🏟️🏉🏉🏈🏈**[National Football League](http://www.nfl.com)**🏈🏈🏉🏉🏟️🏟️! 
 
 I am an alumna from the illustrious ⚪️🔵🔴**Howard University**🔴🔵⚪.️
 
