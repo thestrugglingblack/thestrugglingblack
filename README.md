@@ -36,11 +36,11 @@
 ## Here are some lovely tales about me!
 😀 **she/her**
 
-I am a **Software Engineer** 👩🏾‍💻 at one of the awesomest companies on the planet **[Black Cape](http://www.blackcape.io)**! 
+I am a **Data Engineer** 👩🏾‍💻 at one this really cool place called the National Football League **[Black Cape](http://www.nfl.com)**! 
 
 I am an alumna from the illustrious ⚪️🔵🔴**Howard University**🔴🔵⚪.️
 
-I am currently making magic happen with **_Javascript_** but I like to dabble in ♦️, 🐍 and ☕️.
+I am currently making magic happen with **_Javascript_** and 🐍  but I like to dabble in ♦️ and ☕️.
 
 I like to talk about my _side projects_, _techie hobbies_ and my experience as a _black women in tech_. You can check them out:
 * [Wonder Woman Tech Panel 2018](https://wonderwomentech.com/speaker/zuri-hunter/)
